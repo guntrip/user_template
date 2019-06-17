@@ -1,1 +1,3 @@
-# user_template
+# :cat: user_template :cat:
+
+:wave:
